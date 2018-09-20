@@ -7,11 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="DeepLearnJVM" />
+        <module name="DeepLearnMultiThread" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="DeepLearningJavaI" target="1.5" />
       <module name="DeepLearnJVM" target="1.5" />
+      <module name="DeepLearnMultiThread" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DeepLearnJVM/DeepLearnJVM.iml" filepath="$PROJECT_DIR$/DeepLearnJVM/DeepLearnJVM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DeepLearnMultiThread/DeepLearnMultiThread.iml" filepath="$PROJECT_DIR$/DeepLearnMultiThread/DeepLearnMultiThread.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/DeepLearningJava.iml" filepath="$PROJECT_DIR$/.idea/DeepLearningJava.iml" />
     </modules>
   </component>
