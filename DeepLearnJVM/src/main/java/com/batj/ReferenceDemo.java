@@ -10,6 +10,9 @@ import java.lang.ref.WeakReference;
 
 public class ReferenceDemo {
 
+    private int testID2;
+    private String testName2;
+
     /**
      * 运行环境:64bit windows
      * JDK版本:JDK6
