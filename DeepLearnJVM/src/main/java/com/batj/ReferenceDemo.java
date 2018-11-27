@@ -9,6 +9,9 @@ import java.lang.ref.SoftReference;
 import java.lang.ref.WeakReference;
 
 public class ReferenceDemo {
+    
+    private int testID1;
+    private String testName1;
 
     private int testID2;
     private String testName2;
